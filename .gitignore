@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 ### React App ###
-frontend/ipl/node_modules/
+IPL-DASHBOARD-FRONTEND/node_modules/
